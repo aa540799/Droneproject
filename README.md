@@ -157,6 +157,7 @@ https://github.com/PX4/PX4-Autopilot/releases
 1.Radio
 
 點選Radio後將遙控器打開
+
 ![image](https://github.com/aa540799/Droneproject/raw/fdfa99e212da147cfa9d26eaed2c277ca63c01c6/img/30.jpg)
 
 選擇Mode 1後進行Calibrate
