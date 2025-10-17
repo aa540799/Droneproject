@@ -102,8 +102,7 @@ https://github.com/PX4/PX4-Autopilot/releases
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/22.jpg)
 
 # 校正
-
-##無人機校正
+## 無人機校正
 
 1.設定Airframe(選擇Quadrotor x 的 Generic Quadcopter)
   注意:記得點選Apply and Restart(完成後三長音三短音將會停止)
