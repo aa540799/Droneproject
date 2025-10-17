@@ -53,15 +53,13 @@ chmod +x QGroundControl-x86_64.AppImage
 # 安裝韌體
 
 1.開啟QGC
-2.
+2.點選圖像
+![image](https://github.com/aa540799/Droneproject/raw/e97bb5fdbfdf71cf374473bbca5d9c54a0b6ffe1/img/6.png)
+3.點選Vehicle Configuration
+![image](https://github.com/aa540799/Droneproject/raw/e97bb5fdbfdf71cf374473bbca5d9c54a0b6ffe1/img/7.png)
+4.點選Fireware
+![image](https://github.com/aa540799/Droneproject/raw/e97bb5fdbfdf71cf374473bbca5d9c54a0b6ffe1/img/8.png)
+5.這邊會要求將usb插入無人機
+![image](https://github.com/aa540799/Droneproject/raw/e97bb5fdbfdf71cf374473bbca5d9c54a0b6ffe1/img/9.png)
 
 
-
-
-# 無人機韌體轉換(Ardupilot->PX4)和校正
-
-這邊將從頭教學如何將無人機韌體從Ardupilot轉換成PX4並做後續校正
-
-# 安裝QGroundControl(QGC)
-
-我們這邊透過QGC重新為無人機重刷韌體
