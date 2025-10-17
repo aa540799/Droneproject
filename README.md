@@ -79,7 +79,6 @@ chmod +x QGroundControl-x86_64.AppImage
 6.選擇PX4 PRO stable Relase後點選ok(也可自行建立韌體後燒入，這邊建議直接使用最新版)
 
 ![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/11.jpg)
-![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/12.png)
 
 等待QGC將韌體安裝完成(完成後會一直發出三長音三短音為正常現象，待後續操作完成即可停止聲響)
 
@@ -92,7 +91,13 @@ chmod +x QGroundControl-x86_64.AppImage
 請至以下網址:
 https://github.com/PX4/PX4-Autopilot/releases 
 
-直接下載px4檔進行安裝(請依照飛控板型號下載對應版本 e.g. Pixhawk 6C則下載px4_fmu-v6c_default.px4)
+直接下載px4檔(請依照飛控板型號下載對應版本 e.g. Pixhawk 6C則下載px4_fmu-v6c_default.px4)
+下載完畢後再重新執行一次第5步
+
+這次安裝請選用下載的px4檔
+![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/20.jpg).
+
+![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/21.jpg).
 
 
 
