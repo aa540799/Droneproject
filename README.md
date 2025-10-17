@@ -113,6 +113,7 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 2.分別進行Compass、Gyroscope、Accelerometer、LevelHorizon校正
 ![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/14.jpg).
+
 2-1.Compass
 ![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/16.jpg).
 
