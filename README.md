@@ -152,6 +152,42 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 ![image](https://github.com/aa540799/Droneproject/raw/fdfa99e212da147cfa9d26eaed2c277ca63c01c6/img/31.jpg)
 
+# 遙控器校正
+
+1.Radio
+
+點選Radio後將遙控器打開
+![image](https://github.com/aa540799/Droneproject/raw/fdfa99e212da147cfa9d26eaed2c277ca63c01c6/img/30.jpg)
+
+選擇Mode 1後進行Calibrate
+
+![image](https://github.com/aa540799/Droneproject/raw/59c73bddef7e270b1f58bc79388d1c0f25ad1978/img/17.jpg)
+
+依照文字及右邊圖案指示完成操作即可
+![image](https://github.com/aa540799/Droneproject/raw/f07a74a8af5a36496f349b5505965b2e95d97b89/img/33.jpg)
+
+2.Flight Modes
+
+點選Flight Modes依照以下設定即可
+
+![image](https://github.com/aa540799/Droneproject/raw/f07a74a8af5a36496f349b5505965b2e95d97b89/img/18.jpg)
+
+# Power校正
+
+只需設定Battery 1數值即可(Battery 2及ESC不須改動)
+
+![image](https://github.com/aa540799/Droneproject/raw/c23dc06e47728e53c2138edd36ed402cc0c20159/img/34.jpg)
+
+# Actuators校正
+
+點選Actuators依照以下圖片進行設定
+
+![image](https://github.com/aa540799/Droneproject/raw/c23dc06e47728e53c2138edd36ed402cc0c20159/img/35.jpg)
+
+
+
+
+
 
 
 
