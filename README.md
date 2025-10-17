@@ -68,8 +68,12 @@ chmod +x QGroundControl-x86_64.AppImage
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/8.jpg)
 
-5.這邊會要求將usb插入無人機
+5.這邊會要求將USB插入無人機
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/9.jpg)
+
+5-1如果USB已經插入請先將USB移除再重新插入
+
+![image](https://github.com/aa540799/Droneproject/raw/66f4b81bf5ea5ded77ab8e596d8f88f340178058/img/10.jpg)
 
 
