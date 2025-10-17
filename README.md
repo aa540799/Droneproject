@@ -42,7 +42,7 @@ chmod +x QGroundControl-x86_64.AppImage
 ./QGroundControl-x86_64.AppImage
 ```
 
-## 安裝完畢後開啟QGC
+## 首次開啟QGC
 
 ![{7578A72E-F956-4350-8DD4-A1F663069DDE}](https://github.com/aa540799/Droneproject/raw/e97bb5fdbfdf71cf374473bbca5d9c54a0b6ffe1/img/3.png)
 
@@ -54,29 +54,27 @@ chmod +x QGroundControl-x86_64.AppImage
 
 
 # 安裝韌體
-1.開啟QGC
-
-2.點選圖像
+1.點選圖像
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/6.jpg)
 
-3.點選Vehicle Configuration
+2.點選Vehicle Configuration
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/7.jpg)
 
-4.點選Fireware
+3.點選Fireware
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/8.jpg)
 
-5.這邊會要求將USB插入無人機
+4.這邊會要求將USB插入無人機
 
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/9.jpg)
 
-5-1如果USB已經插入請先將USB移除再重新插入
+4-1如果USB已經插入請先將USB移除再重新插入
 
 ![image](https://github.com/aa540799/Droneproject/raw/66f4b81bf5ea5ded77ab8e596d8f88f340178058/img/10.jpg)
 
-6.選擇PX4 PRO stable Relase後點選ok(也可自行建立韌體後燒入，這邊建議直接使用最新版)
+5.選擇PX4 PRO stable Relase後點選ok(也可自行建立韌體後燒入，這邊建議直接使用最新版)
 
 ![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/11.jpg)
 
@@ -95,56 +93,57 @@ https://github.com/PX4/PX4-Autopilot/releases
 下載完畢後再重新執行一次第5步
 
 這次安裝請選用下載的px4檔
-![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/20.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/20.jpg)
 
-![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/21.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/e70ba6a602afeab43e21be31843249b49964d43d/img/21.jpg)
 
 確認韌體版本沒問題即可進行下一步
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/22.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/22.jpg)
 
 # 無人機校正
 
 
 1.設定Airframe(選擇Quadrotor x 的 Generic Quadcopter)
-  注意:記得點選Apply and Restart
+  注意:記得點選Apply and Restart(完成後三長音三短音將會停止)
 
-![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/13.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/13.jpg)
+
 
 2.分別進行Compass、Gyroscope、Accelerometer、LevelHorizon校正
-![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/14.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/14.jpg)
 
 2-1.Compass
 
-![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/16.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/16.jpg)
 
 需要針對6個不同的面進行旋轉(建議擺在桌面上進行校正)
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/23.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/23.jpg)
 
 注意!一定要出現Compass Calibration Complete才表示校正成功，出現後點選Reboot Vehicle，會自動重啟
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/24.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/24.jpg)
 
 2-2.Gyroscope
 
 將無人機擺放在桌面上後點選OK，等待亮綠燈即可
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/25.jpg).
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/26.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/25.jpg)
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/26.jpg)
 
 2-3.Accelerometer
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/27.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/27.jpg)
 
 依照圖示進行不同角度的擺放(一樣建議在桌面上操作)，等待綠燈亮起即可進行下一個角度直到6個都完成
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/28.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/28.jpg)
 
 2-4.LevelHorizon
 
 完成Accelerometer後，將無人機平放在桌面上，直接點選LevelHorizon
 
-![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/29.jpg).
+![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/29.jpg)
 
 ![image](https://github.com/aa540799/Droneproject/raw/fdfa99e212da147cfa9d26eaed2c277ca63c01c6/img/30.jpg)
 
