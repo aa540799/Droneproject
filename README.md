@@ -83,11 +83,13 @@ chmod +x QGroundControl-x86_64.AppImage
 
 等待QGC將韌體安裝完成(完成後會一直發出三長音三短音為正常現象，待後續操作完成即可停止聲響)
 
-![image](https://github.com/aa540799/Droneproject/row/e5c04a596c1f971b7d5b78267c39645d68f2e49a/img/15.jpg)
+![image](https://github.com/aa540799/Droneproject/raw/e5c04a596c1f971b7d5b78267c39645d68f2e49a/img/15.jpg)
 
 注意:如果直接使用QGC安裝後版本有問題(安裝1.16.0但結果為1.17.0beta)請至以下網址:
 
-https://github.com/PX4/PX4-Autopilot/releases 直接下載px4檔進行安裝(請依照飛控板型號下載對應版本 e.g. Pixhawk 6C則下載px4_fmu-v6c_default.px4)
+https://github.com/PX4/PX4-Autopilot/releases 
+
+直接下載px4檔進行安裝(請依照飛控板型號下載對應版本 e.g. Pixhawk 6C則下載px4_fmu-v6c_default.px4)
 
 
 
