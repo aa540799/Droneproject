@@ -76,7 +76,7 @@ chmod +x QGroundControl-x86_64.AppImage
 
 5.選擇PX4 PRO stable Relase後點選ok(也可自行建立韌體後燒入，這邊建議直接使用最新版)
 
-![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/11.jpg)
+![image](https://github.com/aa540799/Droneproject/raw/9e7fa08628825fd5cf42474b75416e5688d95629/img/11.jpg)
 
 等待QGC將韌體安裝完成(完成後會一直發出三長音三短音為正常現象，待後續操作完成即可停止聲響)
 
@@ -101,8 +101,8 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/22.jpg)
 
-# 無人機校正
-
+# 校正
+##無人機校正
 
 1.設定Airframe(選擇Quadrotor x 的 Generic Quadcopter)
   注意:記得點選Apply and Restart(完成後三長音三短音將會停止)
@@ -152,7 +152,7 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 ![image](https://github.com/aa540799/Droneproject/raw/fdfa99e212da147cfa9d26eaed2c277ca63c01c6/img/31.jpg)
 
-# 遙控器校正
+## 遙控器校正
 
 1.Radio
 
@@ -173,13 +173,13 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 ![image](https://github.com/aa540799/Droneproject/raw/f07a74a8af5a36496f349b5505965b2e95d97b89/img/18.jpg)
 
-# Power校正
+## Power校正
 
 只需設定Battery 1數值即可(Battery 2及ESC不須改動)
 
 ![image](https://github.com/aa540799/Droneproject/raw/c23dc06e47728e53c2138edd36ed402cc0c20159/img/34.jpg)
 
-# Actuators校正
+## Actuators校正
 
 點選Actuators依照以下圖片進行設定
 
