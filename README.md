@@ -115,26 +115,33 @@ https://github.com/PX4/PX4-Autopilot/releases
 ![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/14.jpg).
 
 2-1.Compass
+
 ![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/16.jpg).
 
 需要針對6個不同的面進行旋轉(建議擺在桌面上進行校正)
+
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/23.jpg).
 
 注意!一定要出現Compass Calibration Complete才表示校正成功，出現後點選Reboot Vehicle，會自動重啟
+
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/24.jpg).
 
 2-2.Gyroscope
+
 將無人機擺放在桌面上後點選OK，等待亮綠燈即可
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/25.jpg).
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/26.jpg).
 
 2-3.Accelerometer
+
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/27.jpg).
 
 依照圖示進行不同角度的擺放(一樣建議在桌面上操作)，等待綠燈亮起即可進行下一個角度直到6個都完成
+
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/28.jpg).
 
 2-4.LevelHorizon
+
 完成Accelerometer後，將無人機平放在桌面上，直接點選LevelHorizon
 
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/29.jpg).
