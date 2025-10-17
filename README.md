@@ -54,10 +54,13 @@ chmod +x QGroundControl-x86_64.AppImage
 1.開啟QGC
 2.點選圖像
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/6.jpg)
+
 3.點選Vehicle Configuration
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/7.jpg)
+
 4.點選Fireware
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/8.jpg)
+
 5.這邊會要求將usb插入無人機
 ![image](https://github.com/aa540799/Droneproject/raw/b518e938b58e3dd3d5e388c4d2835d23a1c572e7/img/9.jpg)
 
