@@ -79,7 +79,7 @@ chmod +x QGroundControl-x86_64.AppImage
 6.選擇PX4 PRO stable Relase後點選ok(也可自行建立韌體後燒入，這邊建議直接使用最新版)
 
 ![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/11.jpg)
-![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/12.jpg)
+![image](https://github.com/aa540799/Droneproject/blob/9e7fa08628825fd5cf42474b75416e5688d95629/img/12.png)
 
 
 
