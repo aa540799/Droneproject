@@ -85,8 +85,11 @@ chmod +x QGroundControl-x86_64.AppImage
 
 ![image](https://github.com/aa540799/Droneproject/raw/e5c04a596c1f971b7d5b78267c39645d68f2e49a/img/15.jpg)
 
-注意:如果直接使用QGC安裝後版本有問題(安裝1.16.0但結果為1.17.0beta)請至以下網址:
+注意:如果直接使用QGC安裝後版本有問題(安裝1.16.0但結果為1.17.0beta 畫面如下)
 
+![image](https://github.com/aa540799/Droneproject/raw/f34d84c4a1b4c8ec40077ba0ff1e68d0c160192a/img/19.jpg)
+
+請至以下網址:
 https://github.com/PX4/PX4-Autopilot/releases 
 
 直接下載px4檔進行安裝(請依照飛控板型號下載對應版本 e.g. Pixhawk 6C則下載px4_fmu-v6c_default.px4)
