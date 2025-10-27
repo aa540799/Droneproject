@@ -191,6 +191,9 @@ https://github.com/PX4/PX4-Autopilot/releases
 至Paramter->搜尋DSHOT_MIN將起始百分比調高即可(預設0.05)
 
 <font color="#FF0000">注意!!!請一次0.01慢慢調整，且在室內使用螺旋槳請注意安全!!</font>
+
+<font color="#1936C9">藍色</font>
+
 ![image](https://github.com/aa540799/Droneproject/raw/f5b8aac68fe841b7fdb4fef4fcd3c82970a785ec/img/37.jpg)
 
 
