@@ -82,7 +82,7 @@ chmod +x QGroundControl-x86_64.AppImage
 
 ![image](https://github.com/aa540799/Droneproject/raw/e5c04a596c1f971b7d5b78267c39645d68f2e49a/img/15.jpg)
 
-注意:如果直接使用QGC安裝後版本有問題(安裝1.16.0但結果為1.17.0alpha 畫面如下)
+<font color="#FF0000">注意:如果直接使用QGC安裝後版本有問題(安裝1.16.0但結果為1.17.0alpha 畫面如下)</font>
 
 ![image](https://github.com/aa540799/Droneproject/raw/f34d84c4a1b4c8ec40077ba0ff1e68d0c160192a/img/19.jpg)
 
@@ -105,7 +105,8 @@ https://github.com/PX4/PX4-Autopilot/releases
 ## 無人機校正
 
 1.設定Airframe(選擇Quadrotor x 的 Generic Quadcopter)
-  <font color="#FF0000">注意:記得點選Apply and Restart(完成後三長音三短音將會停止)</font>
+
+<font color="#FF0000">注意:記得點選Apply and Restart(完成後三長音三短音將會停止)</font>
 
 ![image](https://github.com/aa540799/Droneproject/raw/52b1bb2900753ddef5239448caaccecdfa227cf2/img/13.jpg)
 
