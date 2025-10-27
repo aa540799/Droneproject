@@ -122,7 +122,7 @@ https://github.com/PX4/PX4-Autopilot/releases
 
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/23.jpg)
 
-注意!一定要出現Compass Calibration Complete才表示校正成功，出現後點選Reboot Vehicle，會自動重啟
+<font color = "#FF0000">注意!一定要出現Compass Calibration Complete才表示校正成功，出現後點選Reboot Vehicle，會自動重啟</font>
 
 ![image](https://github.com/aa540799/Droneproject/raw/f2fec56d650542b30ec5ad07fe321f3d6f2bc4a3/img/24.jpg)
 
